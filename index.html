@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="A portfolio showcasing AI Prompt Engineering expertise with AI image generation, text summarization, and chat prompt examples">
+    <title>Prompt Engineering Portfolio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="navbar">
+        <div class="container">
+            <div class="nav-brand">
+                <h2>🤖 Prompt Portfolio</h2>
+            </div>
+            <ul class="nav-menu">
+                <li><a href="#home">Home</a></li>
+                <li><a href="#image-gen">AI Images</a></li>
+                <li><a href="#text-summary">Summarization</a></li>
+                <li><a href="#chat-prompts">Chat Prompts</a></li>
+                <li><a href="#about">About</a></li>
+            </ul>
+            <div class="hamburger">
+                <span></span>
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <div class="hero-content">
+                <h1 class="hero-title">Prompt Engineering Portfolio</h1>
+                <p class="hero-subtitle">Crafting intelligent prompts for AI systems - from image generation to conversational AI</p>
+                <div class="hero-stats">
+                    <div class="stat">
+                        <span class="stat-number">50+</span>
+                        <span class="stat-label">Prompt Templates</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">3</span>
+                        <span class="stat-label">AI Categories</span>
+                    </div>
+                    <div class="stat">
+                        <span class="stat-number">100%</span>
+                        <span class="stat-label">Open Source</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- AI Image Generation Section -->
+    <section id="image-gen" class="section">
+        <div class="container">
+            <h2 class="section-title">🎨 AI Image Generation Prompts</h2>
+            <p class="section-description">Master the art of crafting detailed prompts for AI image generation models like DALL-E, Midjourney, and Stable Diffusion.</p>
+            
+            <div class="cards-grid">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Photorealistic Portrait</h3>
+                        <span class="badge">DALL-E</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="prompt-box">
+                            <p class="prompt-label">Prompt:</p>
+                            <p class="prompt-text">"A professional headshot of a confident businesswoman in her 30s, natural lighting from a window, shallow depth of field, Canon 85mm f/1.8, office background slightly blurred, warm color grading, high detail, 8K resolution"</p>
+                        </div>
+                        <div class="prompt-tips">
+                            <p><strong>Key Elements:</strong></p>
+                            <ul>
+                                <li>Subject description (age, expression)</li>
+                                <li>Lighting specification</li>
+                                <li>Camera/lens details</li>
+                                <li>Background treatment</li>
+                                <li>Quality modifiers</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Fantasy Landscape</h3>
+                        <span class="badge">Midjourney</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="prompt-box">
+                            <p class="prompt-label">Prompt:</p>
+                            <p class="prompt-text">"Epic fantasy mountain landscape at golden hour, floating islands with waterfalls, ancient ruins covered in glowing moss, dramatic volumetric lighting, mystical atmosphere, by Greg Rutkowski and Alphonse Mucha, trending on artstation, 4K, highly detailed --ar 16:9 --v 5"</p>
+                        </div>
+                        <div class="prompt-tips">
+                            <p><strong>Key Elements:</strong></p>
+                            <ul>
+                                <li>Scene setting and time</li>
+                                <li>Fantasy elements</li>
+                                <li>Lighting and mood</li>
+                                <li>Artist references</li>
+                                <li>Technical parameters</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Product Photography</h3>
+                        <span class="badge">Stable Diffusion</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="prompt-box">
+                            <p class="prompt-label">Prompt:</p>
+                            <p class="prompt-text">"Premium wireless headphones on a minimalist white surface, studio lighting setup, soft shadows, reflective surface below, commercial product photography style, clean composition, macro detail shot, gradient background from white to light gray, professional, sharp focus"</p>
+                        </div>
+                        <div class="prompt-tips">
+                            <p><strong>Key Elements:</strong></p>
+                            <ul>
+                                <li>Product description</li>
+                                <li>Surface and setting</li>
+                                <li>Lighting setup</li>
+                                <li>Photography style</li>
+                                <li>Composition details</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Text Summarization Section -->
+    <section id="text-summary" class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">📝 Text Summarization Prompts</h2>
+            <p class="section-description">Effective prompts for condensing long-form content into concise, actionable summaries.</p>
+            
+            <div class="cards-grid">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Executive Summary</h3>
+                        <span class="badge">GPT-4</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="prompt-box">
+                            <p class="prompt-label">Prompt:</p>
+                            <p class="prompt-text">"Please provide an executive summary of the following document. Focus on: 1) Key findings and insights, 2) Main recommendations, 3) Critical action items, 4) Business impact. Keep it under 200 words and use bullet points for clarity. [INSERT DOCUMENT]"</p>
+                        </div>
+                        <div class="prompt-tips">
+                            <p><strong>Use Cases:</strong></p>
+                            <ul>
+                                <li>Business reports</li>
+                                <li>Research papers</li>
+                                <li>Meeting transcripts</li>
+                                <li>Strategic documents</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Technical Documentation</h3>
+                        <span class="badge">Claude</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="prompt-box">
+                            <p class="prompt-label">Prompt:</p>
+                            <p class="prompt-text">"Summarize this technical documentation in a way that's accessible to non-technical stakeholders. Include: 1) What the system does (in plain English), 2) Key benefits and features, 3) Any limitations or requirements, 4) Next steps for implementation. Use analogies where helpful. [INSERT DOCUMENTATION]"</p>
+                        </div>
+                        <div class="prompt-tips">
+                            <p><strong>Use Cases:</strong></p>
+                            <ul>
+                                <li>API documentation</li>
+                                <li>System architecture docs</li>
+                                <li>Technical specifications</li>
+                                <li>User manuals</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Article Digest</h3>
+                        <span class="badge">ChatGPT</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="prompt-box">
+                            <p class="prompt-label">Prompt:</p>
+                            <p class="prompt-text">"Create a 3-sentence summary of this article that captures: 1) The main topic or thesis, 2) The most important supporting point or evidence, 3) The conclusion or takeaway. Make it engaging and easy to understand. [INSERT ARTICLE]"</p>
+                        </div>
+                        <div class="prompt-tips">
+                            <p><strong>Use Cases:</strong></p>
+                            <ul>
+                                <li>News articles</li>
+                                <li>Blog posts</li>
+                                <li>Academic papers</li>
+                                <li>Content curation</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Chat Prompts Section -->
+    <section id="chat-prompts" class="section">
+        <div class="container">
+            <h2 class="section-title">💬 Chat & Conversational AI Prompts</h2>
+            <p class="section-description">Structured prompts for building engaging and effective conversational AI experiences.</p>
+            
+            <div class="cards-grid">
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Customer Support Bot</h3>
+                        <span class="badge">System Prompt</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="prompt-box">
+                            <p class="prompt-label">Prompt:</p>
+                            <p class="prompt-text">"You are a helpful and empathetic customer support assistant for [COMPANY]. Your role is to: 1) Listen carefully to customer concerns, 2) Provide clear, accurate solutions, 3) Escalate complex issues when needed, 4) Always maintain a friendly, professional tone. If you don't know the answer, say so and offer to connect them with a human agent. Remember: the customer's satisfaction is your top priority."</p>
+                        </div>
+                        <div class="prompt-tips">
+                            <p><strong>Key Features:</strong></p>
+                            <ul>
+                                <li>Role definition</li>
+                                <li>Core responsibilities</li>
+                                <li>Tone guidelines</li>
+                                <li>Escalation protocol</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Code Review Assistant</h3>
+                        <span class="badge">Developer Tool</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="prompt-box">
+                            <p class="prompt-label">Prompt:</p>
+                            <p class="prompt-text">"You are an expert code reviewer. Analyze the provided code for: 1) Security vulnerabilities, 2) Performance bottlenecks, 3) Code quality and best practices, 4) Potential bugs or edge cases. Provide specific, actionable feedback with code examples. Prioritize critical issues first. Be constructive and educational in your feedback."</p>
+                        </div>
+                        <div class="prompt-tips">
+                            <p><strong>Key Features:</strong></p>
+                            <ul>
+                                <li>Expertise declaration</li>
+                                <li>Review criteria</li>
+                                <li>Output format</li>
+                                <li>Educational approach</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="card">
+                    <div class="card-header">
+                        <h3>Creative Writing Partner</h3>
+                        <span class="badge">Interactive</span>
+                    </div>
+                    <div class="card-content">
+                        <div class="prompt-box">
+                            <p class="prompt-label">Prompt:</p>
+                            <p class="prompt-text">"You are a creative writing collaborator. Help users brainstorm ideas, develop characters, and refine their stories. Ask probing questions to deepen their thinking. Offer suggestions but respect their creative vision. Provide constructive feedback on: plot structure, character development, pacing, and dialogue. Be encouraging and help them overcome writer's block."</p>
+                        </div>
+                        <div class="prompt-tips">
+                            <p><strong>Key Features:</strong></p>
+                            <ul>
+                                <li>Collaborative role</li>
+                                <li>Question-based engagement</li>
+                                <li>Feedback areas</li>
+                                <li>Supportive tone</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about" class="section section-alt">
+        <div class="container">
+            <h2 class="section-title">About This Portfolio</h2>
+            <div class="about-content">
+                <div class="about-text">
+                    <h3>Mastering the Art of Prompt Engineering</h3>
+                    <p>This portfolio showcases various prompt engineering techniques across different AI domains. Each example demonstrates best practices for crafting effective prompts that yield high-quality, consistent results.</p>
+                    
+                    <h4>Key Principles</h4>
+                    <ul class="principles-list">
+                        <li><strong>Specificity:</strong> Clear, detailed instructions produce better results</li>
+                        <li><strong>Context:</strong> Provide relevant background and constraints</li>
+                        <li><strong>Structure:</strong> Organize prompts logically with numbered steps or sections</li>
+                        <li><strong>Examples:</strong> Include sample inputs/outputs when applicable</li>
+                        <li><strong>Iteration:</strong> Refine prompts based on results and feedback</li>
+                    </ul>
+
+                    <h4>Technologies & Models</h4>
+                    <div class="tech-tags">
+                        <span class="tech-tag">GPT-4</span>
+                        <span class="tech-tag">Claude</span>
+                        <span class="tech-tag">DALL-E</span>
+                        <span class="tech-tag">Midjourney</span>
+                        <span class="tech-tag">Stable Diffusion</span>
+                        <span class="tech-tag">ChatGPT</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2024 Prompt Engineering Portfolio. Open source and available for collaboration.</p>
+            <p>Built to showcase AI prompt engineering expertise across multiple domains.</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>
