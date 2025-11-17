@@ -1,93 +1,91 @@
-# **AI Prompt Engineering Portfolio**  
+# **🚀 AI Prompts Showcase**  
 
-Welcome to my **AI Prompt Engineering Portfolio**! This repository showcases my expertise in crafting innovative, efficient, and optimized prompts for advanced AI models, including the **OpenAI GPT series**.  
+Welcome to my **AI Prompting Portfolio**! Here i'll publish my expertise in crafting innovative, efficient, and optimized prompts for AI models, including the **Text-To-Image & Text-To-Video**.  
 
-Here, you’ll find a curated collection of **prompt examples**, **AI-driven projects**, **tutorials**, and **research insights**, all reflecting my dedication to the field of **AI Prompt Engineering**.  
+Featuring precisely-tested prompts, real-world AI projects, tutorials, and experiments with models like GPT-4o, Claude, grok, nano banana, seedream, and many more.
 
 ---
 
 ## **About Me**  
 
-Hello! I am **Nagina**, an aspiring **AI Prompt Engineer** committed to leveraging cutting-edge AI models to address real-world challenges effectively.  
+Hey! I am **Aman**, an aspiring **AI Prompt Engineer**, and I love working with language models to solve actual problems, not just theoretical ones.  
 
-### **Core Competencies**:  
-- **Prompt Design and Optimization**: Expertise in creating tailored prompts to maximize AI output quality.  
-- **AI Applications**: Proficient in designing chatbots, content generators, and other AI-powered solutions.  
-- **Natural Language Processing (NLP)**: Skilled in tasks like summarization, sentiment analysis, and translation.  
-- **Technical Proficiency**: Experienced in working with **OpenAI GPT Models**, **Python**, and **TensorFlow**.  
+## **What I Do Best**
+Prompt Crafting: Designing prompts that get more accurate, useful results from AI
 
-Currently pursuing a **Bachelor’s in Software Engineering** at **Karakoram International University**, I bring a global perspective to my work, enriched by experiences like the **STEM Sister Exchange Program** at the **University of Delaware**. My mission is to make AI systems more accessible, impactful, and intelligent through the art of prompt engineering.  
+## **What I Do**
+Recently, I’ve been getting deep into generating media with AI. All my prompt work now is centered on a few exciting areas:
 
----
+**Text-to-Video:** Writing prompts that turn a short story or idea directly into animated visual clips
 
-## **Education**  
+**Text-to-Image:** Using simple descriptions to create original images or artwork
 
-| **Degree**                      | **Institution**                        | **Year**    | **GPA/Percentage** |  
-|----------------------------------|----------------------------------------|-------------|--------------------|  
-| **BS Software Engineering**     | Karakoram International University     | 2021–2025   | 3.56 GPA           |  
-| **Intermediate (HSSC)**          | Mountains Land School and College      | 2019–2021   | 77%                |  
-| **Matriculation (SSC)**          | Mountains Land School and College      | 2017–2019   | 75%                |  
+**Image-to-Image:** Tweaking existing images by guiding the AI to make changes, transformations, or enhancements
+
+**Image-to-Video:** Transforming a single image into a video sequence or animation
+
+**Reference-to-Video:** Taking a reference (like a photo or style sample) and using it as inspiration to produce customized video content
+
+Basically, if it’s about converting text or images into something creative and visual—whether still or moving—I’m exploring and sharing prompts that make the magic happen.
 
 ---
 
 ## **Portfolio Highlights**  
 
 ### **1. Prompts**  
-A comprehensive library of optimized prompts for:  
-- **Creative Text Generation**: Producing dynamic content for blogs, stories, and beyond.  
-- **Q&A Systems**: Enhancing precision and relevance in AI-powered question answering.  
-- **Summarization**: Creating concise overviews from lengthy texts.  
-- **Sentiment Analysis**: Extracting emotions and opinions from textual data.  
+A curated library of prompts built for multimodal generation, blending creativity and technical nuance:  
+- **Exploring text inputs that spark vivid visual scenes and animated sequences.
+- **Crafting image-based prompts for nuanced transformations and style shifts.
+- **Engineering references into dynamic video outputs, experimenting with context and detail.
+- **Continuously refining prompt logic for smoother cross-modal translations and expressive results
 
 Each prompt is accompanied by insights on design strategies and results.  
 
 ---
 
 ### **2. Projects**  
-Showcasing practical applications of prompt engineering:  
+A snapshot of hands-on, real-world creative projects powered by AI prompt engineering:
 
-#### **AI Chatbot**  
-- Developed a conversational AI chatbot with natural and user-centric interactions.  
-- Implemented advanced prompt optimization techniques to enhance dialogue coherence.  
+#### **Faceless AI YouTube Channel**  
+- Developed a complete YouTube channel where every video—scripts, narration, visuals, and edits—is generated by AI models.
+- Utilized pipelines that blend text-to-video prompts, automated voice synthesis, and video editing frameworks.
 
-#### **Story Generator**  
-- Designed a creative story generation tool based on user inputs.  
-- Focused on prompts for dynamic and contextually appropriate storytelling.  
+#### **AI Podcast Studio**  
+- Produced a podcast series with AI-generated hosts, topics, and discussions.  
+- Designed workflows where text prompts became full episodes, from conceptual outlines to synthetic voices and music backgrounds.
 
-#### **Resume Analyzer**  
-- Built an AI-driven tool to evaluate resumes and provide detailed feedback.  
-- Utilized tailored prompts to ensure accurate scoring and analysis.  
+#### **AI Product Shoot**  
+- Designed an AI-powered product photoshoot system that generates studio-quality images from product descriptions, enhancing e-commerce listings without traditional photography.
+- Leveraged text-to-image models and style transfer techniques to create visually cohesive product galleries, customizable for different themes, seasons, or branding needs.
 
-#### **Sentiment Dashboard**  
-- Created an interactive AI dashboard for analyzing customer sentiment from text reviews.  
-- Incorporated refined prompts for data processing and visualization.  
+#### **AI Album Cover Maker**  
+- Craft striking, unique music album covers or visualized playlists using lyrics, themes, or mood references as prompt inputs for image generators.
 
 ---
 
 ### **3. Tutorials**  
-Practical guides to master **prompt engineering**:  
-- **Getting Started with OpenAI’s API**: Learn how to set up and integrate GPT models into applications.  
-- **Prompt Optimization Techniques**: Explore strategies for crafting effective prompts.  
-- **Fine-Tuning for Custom Tasks**: Step-by-step instructions for tailoring prompts to specific needs.  
-
-These tutorials include clear explanations, code samples, and actionable tips for both beginners and advanced users.  
+Hands-on guides for unlocking **AI-powered image and video creation**:
+- **How to connect and experiment with leading generative media APIs and platforms.
+- **Creative prompt engineering tips for producing standout visuals and animations
+- **Step-by-step workflows for adapting prompts to fit any style, brand, or project goal
+  
+Each tutorial is packed with clear examples, code, and practical tips for creators of all skill levels.
 
 ---
 
 ### **4. Research**  
-Insights and findings from my research endeavors in **AI Prompt Engineering**:  
-- **Enhancing AI Efficiency**: Investigating the impact of optimized prompts on model performance.  
-- **Human-AI Collaboration**: Exploring how prompt design bridges the gap between human creativity and AI capabilities.  
+Personal explorations and insights into the world of **AI-driven media**:
+- **Testing and benchmarking prompt variations to boost visual quality and consistency 
+- **Studying how human feedback and references can refine AI interpretations and outputs
 
-I aim to contribute to the growing field of AI through impactful research and collaboration.  
+All research is shared with the goal of making generative media tools smarter and more intuitive.
 
 ---
 
 ### **5. Assets**  
-Access a variety of resources, including:  
-- **Visuals**: Diagrams and images illustrating workflows and concepts.  
-- **Datasets**: Curated data for testing prompt effectiveness.  
-- **Code Snippets**: Reusable scripts for common AI tasks.  
+A growing library of helpful resources, including:
+- **AI-Generated Images**: Explore a portfolio of visuals created from diverse prompts, covering portraits, landscapes, abstract art, and product showcases.
+- **AI-Generated Videos**: Browse short clips and full video scenes produced by transforming text or image inputs into dynamic motion. 
 
 ---
 
@@ -104,8 +102,8 @@ Let’s work together to innovate in **AI Prompt Engineering**!
 ## **Contact Me**  
 
 Feel free to reach out for collaborations, inquiries, or project discussions:  
-- **Email**: [naginaabbas890@gmail.com](mailto:naginaabbas890@gmail.com)  
-- **LinkedIn**: [linkedin.com/in/nagina-abbas-1ab1b2283](https://www.linkedin.com/in/nagina-abbas-1ab1b2283/)  
+- **Email**: [n3owise@gmail.com](mailto:n3owise@gmail.com)  
+- **LinkedIn**: [linkedin.com/in/amanverma-zip](https://www.linkedin.com/in/amanverma-zip/)  
 
 ---
 
