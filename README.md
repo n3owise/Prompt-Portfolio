@@ -6,6 +6,27 @@ Featuring precisely-tested prompts, real-world AI projects, tutorials, and exper
 
 ---
 
+## 🌟 Featured Projects
+
+### ☕ V60 Pour-Over Coffee Brewing Grid
+
+![V60 Coffee Brewing Process](Assets/images/v60-coffee-brewing-grid.jpg)
+
+**What it does**: A professional 2x2 photo grid documenting the complete V60 coffee brewing process - from grinding beans to the final pour.
+
+**Why it's impressive**:
+- ✅ Advanced composition control with frame-by-frame specifications
+- ✅ Professional photography direction (LUT, shallow DOF, cinematic lighting)
+- ✅ Sequential storytelling across 4 cohesive panels
+- ✅ Social media-ready format (1:1 aspect ratio)
+- ✅ Brand-quality output suitable for commercial use
+
+**Use Cases**: Social media content, coffee shop marketing, tutorial materials, lifestyle photography
+
+👉 **[View Full Prompt Documentation](Prompts/image-generation/v60-coffee-brewing-grid.md)**
+
+---
+
 ## **About Me**  
 
 Hey! I am **Aman**, an aspiring **AI Prompt Engineer**, and I love working with language models to solve actual problems, not just theoretical ones.  
