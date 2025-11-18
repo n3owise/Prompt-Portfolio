@@ -27,6 +27,25 @@ Featuring precisely-tested prompts, real-world AI projects, tutorials, and exper
 
 ---
 
+### 🎁 Product Unboxing Photography: Gift Set Documentation
+
+![Perfume Unboxing Experience](Assets/images/perfume-unboxing-grid.jpg)
+
+**What it does**: A premium 2x2 photo grid showcasing the complete luxury perfume gift set unboxing experience - from the initial reveal to the final product interaction.
+
+**Why it's impressive**:
+- ✅ **Advanced Complexity**: More technically challenging than V60 - requires extreme consistency in shadows, textures, and product placement
+- ✅ **Commercial-Grade**: Blank products make it universally adaptable for any brand
+- ✅ **Sequential Storytelling**: Frame 1 (Anticipation) → Frame 2 (Reveal) → Frame 3 (Interaction) → Frame 4 (Experience)
+- ✅ **Technical Mastery**: Google Imagen 4 Ultra + Nanobanana + Upscayl upscaling
+- ✅ **Real-World Challenges**: Overcame grid consistency problems through iterative regeneration
+
+**Use Cases**: E-commerce product photography, luxury brand marketing, unboxing content, social media campaigns, product launches
+
+👉 **[View Full Prompt Documentation](Prompts/image-generation/perfume-unboxing-grid.md)**
+
+---
+
 ## **About Me**  
 
 Hey! I am **Aman**, an aspiring **AI Prompt Engineer**, and I love working with language models to solve actual problems, not just theoretical ones.  
